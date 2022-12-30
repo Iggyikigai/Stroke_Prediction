@@ -2,4 +2,5 @@
 2022 IE0005 Stroke Prediction Project led by Ignatius <br>
 This project shows the likelihood of getting a stroke for adults over the age of 30 <br>
 Dataset from Kaggle: Stroke Prediction Dataset by FEDESORIANO <br>
-Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset <br>
+View Stroke Prediction.ipyb file for full project source code and output <br>
