@@ -3,4 +3,4 @@
 This project shows the likelihood of getting a stroke for adults over the age of 30 <br>
 Dataset from Kaggle: Stroke Prediction Dataset by FEDESORIANO <br>
 Source: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset <br>
-View Stroke Prediction.ipyb file for full project source code and output <br>
+View Stroke _Prediction.ipynb_ file for full project source code and output <br>
